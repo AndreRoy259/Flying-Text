@@ -17,6 +17,20 @@ body {
   background: #130e23;
 }
 
+h1,
+h2 {
+  text-align: center;
+  color: #7353ba;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
 section .text {
   position: relative;
   text-align: center;
