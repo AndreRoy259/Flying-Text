@@ -20,14 +20,15 @@ body {
 h1,
 h2 {
   text-align: center;
-  color: #7353ba;
 }
 
 h1 {
+  color: #7353ba;
   font-size: 3rem;
 }
 
 h2 {
+  color: #f6511d;
   font-size: 2rem;
 }
 
